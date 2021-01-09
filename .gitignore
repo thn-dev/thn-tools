@@ -1,3 +1,12 @@
+# intellij
+.idea
+*.iml
+target/
+build/
+
+# osx
+.DS_Store
+
 # Compiled class file
 *.class
 
